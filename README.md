@@ -178,4 +178,9 @@
   <a href="https://www.linkedin.com/in/mayankpatil134/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
   </a>
+
+  <a href = "https://www.instagram.com/__mayankpatil143__/" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40"/>
+  </a>
+
 </div>
