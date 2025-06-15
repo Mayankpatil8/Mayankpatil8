@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm <span style="color:#FFA500;">Mayank Patil</span> — Cloud & DevOps Engineer from Pune</h1>
+<h1 align="left">Hi 👋, I'm <span style="color:#FFA500;">Mayank Patil</span> — Software Developer Engineer from Pune</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FF10F0&center=true&vCenter=true&width=500&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Docker+%7C+K8s+%7C+Terraform;Web+developement+%7C+Coding+🚀" alt="Typing SVG" />
@@ -55,7 +55,7 @@
       </td>
       <td align="center">
         <a href="https://github.com/Kartikpawar143/All-Teraform-Projects">
-          <img src="images/terraform.png" width="75px" height="75px" alt="Terraform"/><br><b>Terraform</b>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="75px" height="75px" alt="Anaconda"/><br><b>Anaconda</b>
         </a>
       </td>
       <td align="center">
@@ -87,12 +87,12 @@
       </td>
       <td align="center">
         <a href="https://github.com/Kartikpawar143/Coding-Related/tree/main/Frontend%20Projects/HTML%20AND%20CSS">
-          <img src="images/pngwing.com.png" width="75px" height="75px" alt="Frontend"/><br><b>Frontend</b>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="75px" height="75px" alt="Next.js"/><br><b>Next.js</b>
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/Kartikpawar143/Certificates">
-          <img src="images/chat.png" width="75px" height="75px" alt="Certificates"/><br><b>Certificates</b>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="75px" height="75px" alt="Express"/><br><b>Express</b>
         </a>
       </td>
     </tr>
