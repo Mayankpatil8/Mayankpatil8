@@ -99,7 +99,7 @@
   </table>
 </div>
 
-//<img src="https://raw.githubusercontent.com/Kartikpawar143/Kartikpawar143/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Mayankpatil8/Mayankpatil8/output/snake.svg" alt="Snake animation" />
 
 <h2 align="left">🎓 Education</h2>
 
