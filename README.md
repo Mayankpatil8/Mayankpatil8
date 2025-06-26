@@ -17,81 +17,81 @@
   <table>
     <tr>
       <td align="center">
-        <a href="https://github.com/Kartikpawar143/All-AWS-Projects">
+        <a href="">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" width="75px" height="75px" alt="AWS" /><br><b>AWS</b>
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/Kartikpawar143/All-Docker-Projects">
+        <a href="">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="75px" height="75px" alt="Docker"/><br><b>Docker</b>
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/Kartikpawar143/All-Jenkins-Project">
+        <a href="">
           <img src="https://cdn.simpleicons.org/jenkins/D24939" width="75px" height="75px" alt="Jenkins"/><br><b>Jenkins</b>
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/Kartikpawar143/All-Ansible-Projects">
+        <a href="">
           <img src="https://skillicons.dev/icons?i=ansible" width="75px" height="75px" alt="Ansible"/><br><b>Ansible</b>
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/Kartikpawar143/All-Kubernetes-Projects">
+        <a href="">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="75px" height="75px" alt="Kubernetes"/><br><b>Kubernetes</b>
         </a>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <a href="https://github.com/Kartikpawar143/All-Prometheus-Projects">
+        <a href="">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="75px" height="75px" alt="Prometheus"/><br><b>Prometheus</b>
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/Kartikpawar143/All-Grafana-Projects">
+        <a href="">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="75px" height="75px" alt="Grafana"/><br><b>Grafana</b>
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/Kartikpawar143/All-Teraform-Projects">
+        <a href="">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="75px" height="75px" alt="Anaconda"/><br><b>Anaconda</b>
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/Kartikpawar143/Linux-">
+        <a href="">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="75px" height="75px" alt="Linux"/><br><b>Linux</b>
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/Kartikpawar143/Linux-Shell-Scripting">
+        <a href="">
           <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="75px" height="75px" alt="Shell"/><br><b>Shell Scripting</b>
         </a>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <a href="https://github.com/Kartikpawar143/Coding-Related/tree/main/Core%20Java%20codes">
+        <a href="">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="75px" height="75px" alt="Java"/><br><b>Java</b>
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/Kartikpawar143/Coding-Related/tree/main/JavaScript%20codes">
+        <a href="">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="75px" height="75px" alt="JavaScript"/><br><b>JavaScript</b>
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/Ghar-Contractor/ProjectGC">
+        <a href="">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="75px" height="75px" alt="ReactJS"/><br><b>ReactJS</b>
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/Kartikpawar143/Coding-Related/tree/main/Frontend%20Projects/HTML%20AND%20CSS">
+        <a href="">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="75px" height="75px" alt="Next.js"/><br><b>Next.js</b>
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/Kartikpawar143/Certificates">
+        <a href="">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="75px" height="75px" alt="Express"/><br><b>Express</b>
         </a>
       </td>
