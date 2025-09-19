@@ -14,7 +14,7 @@
 <h2 align="left">🌟 Projects</h2>
 
 <div align="center">
-  
+  <table>
     <tr>
       <td align="center">
         <a href="">
@@ -33,11 +33,26 @@
       </td>
       <td align="center">
         <a href="">
+          <img src="https://skillicons.dev/icons?i=ansible" width="75px" height="75px" alt="Ansible"/><br><b>Ansible</b>
+        </a>
+      </td>
+      <td align="center">
+        <a href="">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="75px" height="75px" alt="Kubernetes"/><br><b>Kubernetes</b>
         </a>
       </td>
     </tr>
     <tr>
+      <td align="center">
+        <a href="">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="75px" height="75px" alt="Prometheus"/><br><b>Prometheus</b>
+        </a>
+      </td>
+      <td align="center">
+        <a href="">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="75px" height="75px" alt="Grafana"/><br><b>Grafana</b>
+        </a>
+      </td>
       <td align="center">
         <a href="">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="75px" height="75px" alt="Anaconda"/><br><b>Anaconda</b>
@@ -81,7 +96,7 @@
         </a>
       </td>
     </tr>
-  
+  </table>
 </div>
 
 
@@ -163,7 +178,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
   </a>
 
-  <a href = "https://www.instagram.com/__mayankpatil143__/" target="_blank">
+  <a href = "https://www.instagram.com/_mayankpatil143_/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40"/>
   </a>
 
