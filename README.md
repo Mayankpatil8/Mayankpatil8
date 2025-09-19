@@ -33,26 +33,11 @@
       </td>
       <td align="center">
         <a href="">
-          <img src="https://skillicons.dev/icons?i=ansible" width="75px" height="75px" alt="Ansible"/><br><b>Ansible</b>
-        </a>
-      </td>
-      <td align="center">
-        <a href="">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="75px" height="75px" alt="Kubernetes"/><br><b>Kubernetes</b>
         </a>
       </td>
     </tr>
     <tr>
-      <td align="center">
-        <a href="">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="75px" height="75px" alt="Prometheus"/><br><b>Prometheus</b>
-        </a>
-      </td>
-      <td align="center">
-        <a href="">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="75px" height="75px" alt="Grafana"/><br><b>Grafana</b>
-        </a>
-      </td>
       <td align="center">
         <a href="">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="75px" height="75px" alt="Anaconda"/><br><b>Anaconda</b>
