@@ -14,7 +14,7 @@
 <h2 align="left">🌟 Projects</h2>
 
 <div align="center">
-  <table>
+  
     <tr>
       <td align="center">
         <a href="">
@@ -81,7 +81,7 @@
         </a>
       </td>
     </tr>
-  </table>
+  
 </div>
 
 
