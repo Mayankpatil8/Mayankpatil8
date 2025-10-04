@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  💻 Passionate Software Developer with a strong foundation in Java, JavaScript, and modern web technologies. <br>
-  🚀 Skilled in building scalable, responsive, and efficient applications. <br>
-  🌟 Always exploring new technologies and clean coding practices. <br>
+  💻 Software Developer skilled in Java, JavaScript, React, and modern web frameworks. <br>
+  🚀 Experienced in building scalable applications, APIs, and databases. <br>
+  🌟 Certified in Linux, AI, and Full-Stack Development. <br>
   Welcome to my GitHub profile!
 </p>
 
@@ -18,94 +18,53 @@
     <tr>
       <td align="center">
         <a href="">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="75px" height="75px" alt="Java"/><br><b>Java Projects</b>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="75px" height="75px" alt="React"/><br><b>Smart Task Manager</b>
         </a>
+        <p><i>Full-Stack App | React, Node.js, MongoDB</i></p>
       </td>
       <td align="center">
         <a href="">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="75px" height="75px" alt="JavaScript"/><br><b>JavaScript Apps</b>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="75px" height="75px" alt="Docker"/><br><b>Two-Tier Flask App</b>
         </a>
+        <p><i>Dockerized | Flask, MySQL, Linux</i></p>
       </td>
       <td align="center">
         <a href="">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="75px" height="75px" alt="ReactJS"/><br><b>ReactJS</b>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="75px" height="75px" alt="JavaScript"/><br><b>ISKCON Task Allocation</b>
         </a>
-      </td>
-      <td align="center">
-        <a href="">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="75px" height="75px" alt="Next.js"/><br><b>Next.js</b>
-        </a>
-      </td>
-      <td align="center">
-        <a href="">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="75px" height="75px" alt="Express"/><br><b>Express.js</b>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="75px" height="75px" alt="Node.js"/><br><b>Node.js</b>
-        </a>
-      </td>
-      <td align="center">
-        <a href="">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="75px" height="75px" alt="HTML"/><br><b>HTML5</b>
-        </a>
-      </td>
-      <td align="center">
-        <a href="">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="75px" height="75px" alt="CSS"/><br><b>CSS3</b>
-        </a>
-      </td>
-      <td align="center">
-        <a href="">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="75px" height="75px" alt="MySQL"/><br><b>MySQL</b>
-        </a>
-      </td>
-      <td align="center">
-        <a href="">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="75px" height="75px" alt="MongoDB"/><br><b>MongoDB</b>
-        </a>
+        <p><i>React, JS, Bootstrap | Volunteer System</i></p>
       </td>
     </tr>
   </table>
 </div>
 
-<h2 align="left">🎓 Education</h2>
+<h2 align="left">🧰 Tech Stack</h2>
 
-<p align="left">
-  🎓 Bachelor of Engineering in Computer Science Eng.<br>
-  🏫 Savitribai Phule Pune University (2022 – 2026)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,javascript,react,nextjs,nodejs,express,mysql,mongodb,git,github,docker,aws,html,css,linux" />
 </p>
 
 <h2 align="left">📜 Certifications</h2>
 
 <p align="left">
-  ✅ Python Training Project – IIT Bombay <br>
-  ✅ Java Certification – DataFlair <br>
+  ✅ Linux Fundamentals – LINUX FOUNDATION <br>
+  ✅ Enterprise Grade Artificial Intelligence – IBM <br>
+  ✅ Full-Stack Web Development – UDEMY <br>
   🕐 In Progress – AWS Certified Cloud Practitioner
 </p>
 
-<h2 align="left">🧰 Tech Stack</h2>
+<h2 align="left">🎓 Education</h2>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,javascript,react,nextjs,express,nodejs,html,css,mongodb,mysql,git,github,vscode" />
+<p align="left">
+  🎓 Bachelor of Engineering in Computer Engineering <br>
+  🏫 RMD Sinhgad School of Engineering, Pune (2022 – 2026)
 </p>
 
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
+<h2 align="left">🔥 My Stats</h2>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Mayankpatil8&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" alt="streak graph"  />
 </div>
-
-###
 
 <h2 align="left">📫 Connect with Me</h2>
 
@@ -113,8 +72,10 @@
   <a href="https://www.linkedin.com/in/mayankpatil134/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
   </a>
-
-  <a href = "https://www.instagram.com/_mayankpatil143_/" target="_blank">
+  <a href="https://github.com/Mayankpatil8" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="40" />
+  </a>
+  <a href="https://www.instagram.com/_mayankpatil143_/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40"/>
   </a>
 </div>
