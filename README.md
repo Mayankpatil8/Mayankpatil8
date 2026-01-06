@@ -60,11 +60,6 @@
   🏫 RMD Sinhgad School of Engineering, Pune (2022 – 2026)
 </p>
 
-<h2 align="left" style="font-size:28px;">🔥 My Stats</h2>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Mayankpatil8&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=10" height="250" alt="streak graph"  />
-</div>
 
 <h2 align="left" style="font-size:28px;">📫 Connect with Me</h2>
 
